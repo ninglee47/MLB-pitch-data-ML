@@ -1,2 +1,1 @@
-"# MLB-pitch-data-ML" 
-"# MLB-pitch-data-ML" 
+Data analysis, visualization and machine learning of MLB pitching data
