@@ -7,7 +7,7 @@ The data comes from Kaggle https://www.kaggle.com/pschale/mlb-pitch-data-2015201
 
 ---
 
-######The project will using following data from pitch.csv to classify pitch types(EX. sinker, change up....) base on machine learning algorithms.
+#####The project will using following data from pitch.csv to classify pitch types(EX. sinker, change up....) base on machine learning algorithms.
 
 px: x-location as pitch crosses the plate. X=0 means right down the middle.
 
