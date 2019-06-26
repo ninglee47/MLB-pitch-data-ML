@@ -1,4 +1,4 @@
-### Data analysis, visualization and machine learning of MLB pitching data
+## Data analysis, visualization and machine learning of MLB pitching data
 ---
 
 Original dataset is can not be uploaded due to fils size.
