@@ -1,14 +1,17 @@
-## Data analysis, visualization and machine learning of MLB pitching data
----
+## Data analysis, visualization and machine learning of MLB pitching data.
 
-Original dataset is can not be uploaded due to fils size.
-The data comes from Kaggle https://www.kaggle.com/pschale/mlb-pitch-data-20152018
----
+### Introduction
 
-#### Data analysis and visualization
+ Original dataset is can not be uploaded due to fils size.
+ The data comes from Kaggle https://www.kaggle.com/pschale/mlb-pitch-data-20152018.
+ 
 
----
-#### Machine Learning
+
+### Data analysis and visualization
+This part mainly use atbat.csv to visualize some basic analysis.
+
+
+### Machine Learning
 The project will using following data from pitch.csv to classify pitch types(EX. sinker, change up....) base on machine learning algorithms.
 
 px: x-location as pitch crosses the plate. X=0 means right down the middle.
