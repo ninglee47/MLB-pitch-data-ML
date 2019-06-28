@@ -8,10 +8,6 @@
  
 
 
-### Data analysis and visualization
-This part mainly use atbat.csv to visualize some basic analysis.
-
-
 ### Machine Learning
 The project will using following data from pitch.csv to classify pitch types(EX. sinker, change up....) base on machine learning algorithms.
 
