@@ -11,20 +11,12 @@
 ### Machine Learning
 The project will using following data from pitch.csv to classify pitch types(EX. sinker, change up....) base on machine learning algorithms.
 
-px: x-location as pitch crosses the plate. X=0 means right down the middle.
+Introduciton: 
+1.Pithch type Code:
+2.Variavbles 
 
-pz: z-location as pitch crosses the plate. Z=0 means the ground.
+Data analysis and visulization:
 
-start_speed: Speed of the pitch just as it's thrown.
+Model:
 
-end_speed: Speed of the pitch when it reaches the plate.
-
-spin_rate: The pitch's spin rate, measure in RPM.
-
-spin_dir: Direction in which pitch is spinning, measured in degrees.
-
-break_angle.
-
-break_length.
-
-break_y.
+Predict and evaluateion:
