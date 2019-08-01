@@ -30,4 +30,4 @@ Cross Validation scores
 1. Kernal SVM: 0.745  
 2. RandomForest: 0.748  
 3. GaussianNB: 0.649  
-4.LogisticRegression:  0.700  
+4. LogisticRegression:  0.700  
