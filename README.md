@@ -14,7 +14,7 @@ FS - Splitter, FT - Two-seam Fastball, IN - Intentional ball, KC - Knuckle curve
 PO - Pitchout (also FO)*, SC - Screwball*, SI - Sinker, SL - Slider,UN - Unknown*  
 *these pitch types occur rarely  
 
-### Data analysis:  
+### Data preprocessing:  
 1. Remove following variables which do not have cause-effect relationships betweeen pitch types.  
    ('sz_bot', 'sz_top', 'type_confidence', 'code', 'type', 'event_num', 'b_score', 'ab_id', 'b_count', 's_count',
  'outs', 'pitch_num', 'on_1b', 'on_2b', 'on_3b','zone')  
@@ -30,4 +30,11 @@ Cross Validation scores
 1. Kernal SVM: 0.745  
 2. RandomForest: 0.748  
 3. GaussianNB: 0.649  
-4. LogisticRegression:  0.700  
+4. LogisticRegression: 0.700  
+5. Neural network: 0.7775
+
+### Models of individual pitchers (Neral network):
+1. Clayton Kershaw
+2. Gerrit Cole
+3. Zack Greinke
+
