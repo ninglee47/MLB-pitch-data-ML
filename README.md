@@ -34,7 +34,8 @@ Cross Validation scores
 5. Neural network: 0.7775
 
 ### Models of individual pitchers (Neral network):
-1. Clayton Kershaw
-2. Gerrit Cole
-3. Zack Greinke
+## F1 Score
+1. Clayton Kershaw: 0.99
+2. Gerrit Cole: 0.92 
+3. Zack Greinke: 0.97
 
